@@ -1,0 +1,21 @@
+Lenguajes de desarrollo web
+Los lenguajes de programación web son herramientas fundamentales para crear y diseñar sitios web, 
+aplicaciones y servicios en línea. Funcionan como un puente entre las ideas de los desarrolladores 
+y las máquinas, permitiendo traducir conceptos en instrucciones comprensibles para los sistemas informáticos.
+
+Principales Lenguajes de Programación Web
+JavaScript: Este lenguaje de programación añade interactividad y dinamismo a las páginas web. 
+Permite manejar eventos, validar formularios y realizar solicitudes al servidor sin recargar la página.
+PHP (Hypertext Preprocessor): Es un lenguaje del lado del servidor que se utiliza para generar 
+contenido dinámico, procesar formularios e interactuar con bases de datos.
+
+Funcionamiento en el Desarrollo Web
+
+El desarrollo web combina varios lenguajes para crear experiencias dinámicas. HTML define la estructura 
+de la página, CSS se encarga del diseño visual y JavaScript añade interactividad. Por otro lado, 
+lenguajes como PHP o Python procesan datos en el servidor y generan contenido dinámico
+
+
+Cuando un usuario solicita una página web, el servidor procesa la solicitud, genera el contenido necesario
+ y lo envía al navegador. Este último interpreta el código HTML, aplica los estilos CSS y ejecuta el 
+ JavaScript para ofrecer una experiencia interactiva.
